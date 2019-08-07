@@ -1,24 +1,21 @@
-print = ("****************************")
-
-print = ("Mr.kancut/kawan keam")
-
-print = ("****************************")
-
-print = ("Tools team Wibu tersakiti")
-
-print = ("****************************")
-
-print = ("Thanks To : Mr.N4V3R5")
-
-print = ("****************************")
-
-guah = input ("Masukan passnya")
-
-if guah = "Thanks You":
-	print = ("Good lanjutkan")
+def pembatas ():
+	print ("******************************************")
 	
+pembatas()
+print ("Mr.kancut/kawankelam")
+pembatas()
+print ("WibuTersakitiTeam")
+pembatas()
+print ("subscribe chanel mrkancut")
+pembatas()
+
+klo = input ("masukan pass")
+
+if klo = "subscribe":
+	print ("selesai")
 else:
-	print = ("salah Bro ulangin lagi ajah")
+	print ("slh tapi dikasih dah itu ")
+
 
 import thread
 import requests
